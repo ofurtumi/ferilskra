@@ -1,0 +1,4 @@
+#!/bin/bash
+
+mkdir -p dist
+node lib/index.js && md-to-pdf dist/index.html --pdf-options '{ "format":"a4", "margin":"1in 0.5in 1.5in 0.5in"}' --stylesheet lib/main.css

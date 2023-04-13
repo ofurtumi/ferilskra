@@ -1,0 +1,220 @@
+{
+  "name": "Þorvaldur Tumi Baldursson",
+  "number": 6660603,
+  "email": "ttb3@hi.is",
+  "jobs": [
+    {
+      "employer": "Háskóli Íslands",
+      "title": "Aðstoðarkennari í vefforritun 1 & 2",
+      "start": "sept 2022",
+      "end": "",
+      "description": "Sé um vikulega kennslu fyrir 20-30 nemendur ásamt því að fara yfir verkefni",
+      "points": [
+        "Kenni dæmatíma fyrir hóp af 20-30 nemendum á viku",
+        "Hjálpa við skil á verkefnum í bæði fram- og bakendaforritun",
+        "Fer yfir og gef einkunnir fyrir skilaverkefni"
+      ]
+    },
+    {
+      "employer": "Hannesarholt",
+      "title": "Tæknistjóri",
+      "start": "nóv 2020",
+      "end": "nóv 2022",
+      "description": "Hélt utan um tækjabúnað og vefsíðu, sá um streymi fyrir fundi, tónleika og aðra viðburði",
+      "points": [
+        "Setti upp og hélt utan um nýja vefsíðu fyrir fyrirtækið",
+        "Sinnti viðhaldi á tæknibúnaði, hljóðkerfi og ljósum",
+        "Sá að streyma tónleikum, fundum og fyrirlestrum fyrir viðskiptavini og innanhúss"
+      ]
+    },
+    {
+      "employer": "Háskóli Íslands",
+      "title": "Flokksstjóri garðyrkjudeildar",
+      "start": "maí 2019",
+      "end": "ágú 2022",
+      "description": "Var yfir 12 manna hópi garðyrkjufólks og sá um skipulag og framkvæmd á slætti",
+      "points": [
+        "Bar ábyrgð á 12 manna hópi fólks á aldrinum 17-20 ára",
+        "Sá um skipulag og framkvæmd á slætti allra lóða HÍ",
+        "Þjálfaði nýtt starfsfólk og sá um að verkefni væru rétt unnin"
+      ]
+    },
+    {
+      "employer": "Íþróttafélag Reykjavíkur",
+      "title": "Aðstoðarþjálfari fimleika- og frjálsíþróttadeildar",
+      "start": "ágú 2016",
+      "end": "feb 2020",
+      "description": "Þjálfaði krakka á aldrinum 6-12 ára og hélt utan um persónulegan árangur þeirra á mótum",
+      "points": [
+        "Þjálfaði 6-8 ára krakka og 11-12 ára krakka",
+        "Hélt utan um skráningu á persónulegum árangri krakka á mótum",
+        "Setti upp og gekk frá íþróttasal fyrir og eftir æfingar"
+      ]
+    }
+  ],
+  "competitions": [
+    {
+      "title": "Tech For Good",
+      "undertitle": "Europe",
+      "date": "des 2022",
+      "host": "Huawei",
+      "placement": 5,
+      "description": "Áframhald af SBCDai, vorum í hópi efstu 5 liða í evrópu"
+    },
+    {
+      "title": "Tech For Good",
+      "undertitle": "Nordics and Balkans",
+      "date": "nóv 2022",
+      "host": "Huawei",
+      "placement": 1,
+      "description": "Verkefnið 'SBCDai', 'Standardized Breast Cancer Database for Artificial Intelligence', unnið af 10 manna hópi, lentum í 1. sæti í keppninni"
+    },
+    {
+      "title": "Climathon",
+      "undertitle": "",
+      "date": "okt 2022",
+      "host": "Reykjavíkurborg",
+      "placement": 4,
+      "description": "Settum fram áætlun um nýja tegund bíladeiliþjónustu"
+    },
+    {
+      "title": "Hack Reykjavík",
+      "undertitle": "",
+      "date": "okt 2022",
+      "host": "Genki Instruments",
+      "placement": 2,
+      "description": "Útbjó kerfi fyrir til að stjórna tölvu handfrjálst "
+    }
+  ],
+  "links": [
+    [
+      "Heimasíða, gömul verkefni og linkar",
+      "sjomli.is"
+    ],
+    [
+      "Github, allur kóði og verkefni",
+      "github.com/ofurtumi"
+    ],
+    [
+      "Heimasíða Hannesarholts",
+      "hannesarholt.is"
+    ],
+    [
+      "Heimasíða Nörd, ennþá í vinnslu",
+      "nord.is"
+    ]
+  ],
+  "technical": {
+    "top": [
+      "Java",
+      "C",
+      "Rust",
+      "Lisp",
+      "Morpho",
+      "Haskell",
+      "C++",
+      "C#",
+      "Rockstar",
+      "Python",
+      "Numpy",
+      "Pandas",
+      "HTML",
+      "CSS",
+      "SCSS",
+      "Sass",
+      "Ribbit",
+      "Javascript",
+      "Typescript",
+      "NextJS",
+      "React",
+      "Svelte",
+      "Sqlite",
+      "Postgres",
+      "SQL",
+      "NodeJS",
+      "PrismicIO",
+      "Git",
+      "R",
+      "Rest"
+    ]
+  },
+  "education": [
+    {
+      "school": "Háskóli Íslands",
+      "degree": "BS í tölvunarfræði",
+      "start": 2021,
+      "end": -1
+    },
+    {
+      "school": "Menntaskólinn við Hamrahlíð",
+      "degree": "Stúdentspróf af náttúrufræðibraut",
+      "start": 2017,
+      "end": 2020
+    },
+    {
+      "school": "Tónlistarskóli FÍH",
+      "degree": "Miðpróf í rytmískum bassaleik og tónfræði",
+      "start": 2017,
+      "end": 2019
+    }
+  ],
+  "other": [
+    {
+      "title": "Skemmtanastjóri Nörd",
+      "start": "ágúst 2022",
+      "end": "",
+      "points": [
+        "Sit í kjarnastjórn Nörd, nemendafélags sem telur yfir 200 meðlimi",
+        "Bóka og skipulegg vísindaferðir fyrir meðlimi nemendafélagsins í samfæmi við fyrirtæki utan háskólans"
+      ]
+    },
+    {
+      "title": "Ritstjóri skólablaðs NFMH",
+      "start": "ágúst 2018",
+      "end": "ágúst 2019",
+      "points": [
+        "Sá um uppsetningu og skrif fyrir skólablað nemendafélgs MH",
+        "Hélt utan um hóp ritara og gaf út verkefni fyrir þau"
+      ]
+    }
+  ],
+  "reccomendations": [
+    {
+      "name": "Ólafur Sverrir Kjartansson",
+      "jobs": [
+        {
+          "title": "Aðjunkt",
+          "company": "Háskóli Íslands"
+        },
+        {
+          "title": "Tæknistjóri",
+          "company": "Hugsmiðjan"
+        }
+      ],
+      "email": "osk@hi.is",
+      "number": null
+    },
+    {
+      "name": "Ragnheiður Jóna Jónsdóttir",
+      "jobs": [
+        {
+          "title": "Stofnandi",
+          "company": "Hannesarholt"
+        }
+      ],
+      "email": "1904ra@gmail.com",
+      "number": 8640693
+    },
+    {
+      "name": "Arnheiður Vala Magnúsdóttir",
+      "jobs": [
+        {
+          "title": "Rekstrarstjóri",
+          "company": "Hannesarholt"
+        }
+      ],
+      "email": "vala@hannesarholt.is",
+      "number": null
+    }
+  ]
+}
